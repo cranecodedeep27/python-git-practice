@@ -11,3 +11,8 @@ def substract(a, b):
     return a - b
 
 print(substract(10, 4))
+# Функция давления
+def divide(a, b):
+    return a / b
+
+print(divide(10, 2))
